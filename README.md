@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+##INSTALLATION
+
+Laravel Version 9
+PHP  Version 8.0
+DB Default = rekadigitaltest
+1. UNZIP TO YOUR DIRECTORY
+2. composer install
+3. php artisan migrate
+4. php artisan db:seed
+5. php artisan serve
+
+LOGIN = admin:12345
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
